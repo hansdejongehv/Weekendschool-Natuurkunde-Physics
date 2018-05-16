@@ -1,0 +1,6 @@
+# *__Dit is de stabiele versie van de Natuurkundelessen__*
+
+# Wat er in dit release zit
+Een zip file met alle lessen en een zip file per les.
+Er zijn alleen .pdf en .xps files.
+Alle source files zitten in de file sources.zip maar kunnen ook gewoon direct in github worden gevonden.
